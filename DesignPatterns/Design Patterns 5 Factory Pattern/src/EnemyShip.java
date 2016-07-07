@@ -1,4 +1,7 @@
-
+/**
+ * @author Boyan Bozhilov
+ *
+ */
 public abstract class EnemyShip {
 
 	private String name;
